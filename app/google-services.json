@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "465499850189",
+    "firebase_url": "https://tabdemoapplication.firebaseio.com",
+    "project_id": "tabdemoapplication",
+    "storage_bucket": "tabdemoapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465499850189:android:27c528429913069554b084",
+        "android_client_info": {
+          "package_name": "com.example.tabdemoapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465499850189-c8s8brt6272jr0eoleuofgqp2549hp6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuPJSifFsda5mZm17i5PLmrpZtpkriMpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465499850189-c8s8brt6272jr0eoleuofgqp2549hp6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

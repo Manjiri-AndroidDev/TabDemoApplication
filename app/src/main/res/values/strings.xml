@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TabDemoApplication</string>
+    <string name="txt_user">Users</string>
+    <string name="txt_enrol">Enroll</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_selectprofile">Select Profile Photo</string>
+    <string name="txt_adduser">Add User</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="error">Error</string>
+</resources>
